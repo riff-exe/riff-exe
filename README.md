@@ -1,18 +1,18 @@
-## Jarif Mustavi Aabir
+# Jarif Mustavi Aabir
 [![Discord|69](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/396874591752159232) [![email|59](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jarif.m.aabir@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jarif.mustavi) 
 
 
-#### About Me:
-🔹 2nd year Computer Science student of RUET
-🔹 Started coding since 5th grade and have been improving myself ever since
-🔹 Knowledgeable in Linux, UI/UX and cyber security
-🔹 Passionate about building lightweight, high-performance applications
+### About Me:
+🔹 2nd year Computer Science student of RUET <br>
+🔹 Started coding since 5th grade and have been improving myself ever since <br>
+🔹 Knowledgeable in Linux, UI/UX and cyber security <br>
+🔹 Passionate about building lightweight, high-performance applications <br>
 
-**More about me:**
-🔹 I use Arch & Neovim btw
-🔹 Knows too many keyboard shortcuts. They make my life easier.
-🔹 A member of the Cyber Security club
-🔹 Did you remember to backup your images?
+#### More about me:
+🔹 I use Arch & Neovim btw <br>
+🔹 Knows too many keyboard shortcuts. They make my life easier <br>
+🔹 A member of the Cyber Security club <br>
+🔹 Did you remember to backup your images? <br>
 
 > Being a perfectionist is tough: either I give up or make the best thing ever.
 
@@ -25,9 +25,9 @@
 
 ### Languages and Tools
 <!-- Icons made using Skill Icons: https://github.com/tandpfun/skill-icons -->
-![My Skills](https://skillicons.dev/icons?i=c,cpp,py)
-![My Skills](https://skillicons.dev/icons?i=html,js,git)
-![My Skills](https://skillicons.dev/icons?i=arch,neovim,obsidian)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,py) <br>
+![My Skills](https://skillicons.dev/icons?i=html,js,git) <br>
+![My Skills](https://skillicons.dev/icons?i=arch,neovim,obsidian) <br>
 _more on the way_
 
 
@@ -37,7 +37,7 @@ _more on the way_
 
 ---
 
-![https://www.youtube.com/watch?v=ioMKHIpdp64](bad_apple_contribution_graph.gif)
+![https://www.youtube.com/watch?v=ioMKHIpdp64](bad_apple_contribution_graph.gif) <br>
 _All credits for the Bad Apple graph goes to [TimothyWashBurn](https://github.com/timothywashburn/badapple)_
 
 
