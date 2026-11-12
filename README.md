@@ -18,12 +18,6 @@
 
 ---
 
-### Active Projects
-
-- [Darion Logic Sim](https://github.com/riff-exe/darion-logic-sim): A powerful but minimal logic circuit simulator.
-- [Static Timetable](https://github.com/riff-exe/static-timetable): Very simple but flexible timetable generator of class routines.
-
-
 ### Languages and Tools
 <!-- Icons made using Skill Icons: https://github.com/tandpfun/skill-icons -->
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,py) <br>
